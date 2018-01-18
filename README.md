@@ -1,4 +1,5 @@
-# ocp-php
+# ocp-php 
+edited for test
 PHP demo application for OpenShift Container Platform
 Prints version number and IP of the Pod it runs on, perfect for demonstrating rolling upgrades with something like:
 
